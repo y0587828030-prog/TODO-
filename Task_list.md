@@ -27,10 +27,10 @@ i---
 **status:** Done
 
 ## Which three countries have you visited?
-- [ ] Tell me where you had the most fun.
+- [* ] Tell me where you had the most fun.
 ![vacation](https://he.wikipedia.org/wiki/%D7%9E%D7%98%D7%95%D7%A1_%D7%A0%D7%95%D7%A1%D7%A2%D7%99%D7%9Dן)
 
-Status: in progress
+Status: done
 Affiliation: Yossi
 
 ## Give me an inspirational character for you.

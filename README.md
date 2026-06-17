@@ -7,8 +7,8 @@
 [tasks easily](https://www.kala-crm.co.il/common/assets/421/412/2_57b3a9a1f1f80.png)
 # Rules for adding tasks
 
-**Adding tasks will be done in the [Tasks list](Task_list.md) file**
-Each task must contain
+**Adding tasks will be done in the [Tasks list](Task_list.md) file** \
+Each task must contain \
 Checkbox
 Task title
 List of actions

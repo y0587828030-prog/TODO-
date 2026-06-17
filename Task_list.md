@@ -44,7 +44,7 @@ Affiliation: Yossi
 - [ ] Write down three things you would like to add to your hobbies.
 ![my hobby](https://takhbivan.co.il/cdn/shop/articles/mmkvr-hmilh-bbrit-vd-lai-bvrim-ad-zh-tbib-l-mh-shrit-ldt-liv-813994_800x800.jpg?v=1661191534)
 
-Status: New
+Status: in progress
 Affiliation: Yossi
 
 ## Bonus question: Who is the person in the picture?

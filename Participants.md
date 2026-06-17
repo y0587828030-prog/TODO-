@@ -2,7 +2,6 @@
 ## this file contains the name of Participants 
 ---
 
-**yehoshua zaltz**
-[ ] Special technological product
+**yehoshua zaltz*t
 
 **yossi lerer**

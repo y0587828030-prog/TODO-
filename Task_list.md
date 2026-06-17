@@ -30,7 +30,7 @@ i---
 - [ ] Tell me where you had the most fun.
 ![vacation](https://he.wikipedia.org/wiki/%D7%9E%D7%98%D7%95%D7%A1_%D7%A0%D7%95%D7%A1%D7%A2%D7%99%D7%9Dן)
 
-Status: New
+Status: in progress
 Affiliation: Yossi
 
 ## Give me an inspirational character for you.

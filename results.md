@@ -17,4 +17,6 @@ Azerbaijan
 Answer to question 2
 The Lubavitcher Rebbe is my inspirationz
 
-
+Answer to question 3
+It varies a lot
+Sometimes I like to hang out with friends at a restaurant or bar and sometimes I like my peace and quiet and relax

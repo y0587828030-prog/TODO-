@@ -17,14 +17,14 @@ i---
 **Assignee:** yehoshua zaltz \
 **status:** Done
 
-## -[ ] Task management product
+## -[* ] Task management product
 
 **action:** 
 1. Create a product specification for task management
 
 **[image](https://taskford.com/marketing/blog/how-to-write-project-specifications.webp)** \
 **Assignee:** yehoshua zaltz \
-**status:** new
+**status:** Done
 
 ## Which three countries have you visited?
 - [ ] Tell me where you had the most fun.

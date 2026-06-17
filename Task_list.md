@@ -1,6 +1,6 @@
 #task list
 ---
-## -[] Your three favorite colors
+## -[ ] Your three favorite colors
 **action** 
 1. Open the results file 
 2. Write the three colors in order from strongest to weakest. \
@@ -8,7 +8,7 @@
 **Assignee:** yehoshua zaltz \
 **Status:** new
 
-## -[] Special technological product
+## -[ ] Special technological product
 
 **action** 
 1. Think about the technological product you would like to bring to the world 
@@ -17,7 +17,7 @@
 **Assignee:** yehoshua zaltz \
 **status:** new
 
-## -[] Task management product
+## -[ ] Task management product
 
 **action:** 
 1. Create a product specification for task management 

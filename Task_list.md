@@ -20,7 +20,7 @@
 ## -[ ] Task management product
 
 **action:** 
-1. Create a product specification for task management \ 
+1. Create a product specification for task management  \ 
 **[image](https://taskford.com/marketing/blog/how-to-write-project-specifications.webp)** \
 **Assignee:** yehoshua zaltz \
 **status:** new

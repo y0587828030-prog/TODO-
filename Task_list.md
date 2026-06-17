@@ -37,7 +37,7 @@ Affiliation: Yossi
 - [ ] Tell me what is special about the character.
 ![my inspiration](https://www.hrus.co.il/wp-content/uploads/2016/04/%D7%94%D7%A9%D7%A8%D7%90%D7%94.jpgi)
 
-Status: New
+Status: in progress
 Affiliation: Yossi
 
 ## What is your favorite hobby on the weekends?

@@ -13,3 +13,8 @@ The countries I had the most fun in are:
 United States
 Austria
 Azerbaijan
+
+Answer to question 2
+The Lubavitcher Rebbe is my inspirationz
+
+
